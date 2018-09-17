@@ -5,7 +5,7 @@
 //Daniel Chiang
 //Feiyang Zhao
 //Shih Han Wang
-//YuChuan Lin
+//YuChuan-Lin
 
 public class name {
 	;
